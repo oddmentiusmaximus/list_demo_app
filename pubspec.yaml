@@ -43,8 +43,6 @@ dependencies:
   #db
   sqflite: ^2.0.2
 
-  #local storage
-  get_storage: ^2.0.3
 
   #State Management
   get: ^4.6.1
