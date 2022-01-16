@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
                     SizedBox(
                       height: 10,
                     ),
-                    Text('No Internet Connection')
+                    Text("Please check your network connectivity")
                   ],
                 );
         },
