@@ -21,5 +21,10 @@ Favorite View (online/offline):
 #State Management:
 
 - GetX
+
+Database :
+-SQFlite  
+  sqflite: ^2.0.2
+
 <img src="https://github.com/oddmentiusmaximus/list_demo_app/blob/master/assets/countries_demo.gif" width="300">
 
